@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "Apa perbedaan utama antara sensor DHT11 dan DHT22?",
+    "expected_answer": "DHT22 memiliki akurasi dan rentang pengukuran yang lebih tinggi dibanding DHT11."
+  },
+  {
+    "id": 2,
+    "question": "Bagaimana cara kerja teknik RAG pada Large Language Model?",
+    "expected_answer": "RAG mengambil dokumen relevan dari database eksternal untuk membantu LLM menjawab pertanyaan."
+  }
+]
